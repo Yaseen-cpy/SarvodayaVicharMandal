@@ -454,15 +454,15 @@ header .nav-items {
       padding: 10px 0px;
       font-size: 20px;
       font-weight: 500; }
+      .charity-01-main .services-01 .ser-box h1{
+        padding: 18px 15px;
+      }
     .charity-01-main .services-01 .ser-box p {
       margin: 0px;
       font-size: 15px;
       line-height: 24px;
       font-weight: 400;
       color: #373738; }
-    .charity-01-main .services-01 .ser-box h1{
-      padding: 18px 15px;
-      }
 .charity-01-main .bg-03 {
   padding: 40px 0px;
   background: #f7f7f7;
@@ -858,7 +858,29 @@ footer {
             height: auto;
           }
           
-         
+          .social-icons {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        
+        .social-icons li {
+            display: inline-block;
+            margin-right: 10px; /* Adjust this value to add space between icons */
+        }
+        
+        .social-icons a {
+            text-decoration: none;
+            color: #25a18e; /* Adjust the color as needed */
+        }
+        .css-ew9yyj {
+          box-sizing: border-box;
+          margin: 0;
+          min-width: 0;
+          cursor: pointer;
+          -webkit-text-decoration: none;
+          text-decoration: none;
+      }
           
           
 /*# sourceMappingURL=style.css.map */
