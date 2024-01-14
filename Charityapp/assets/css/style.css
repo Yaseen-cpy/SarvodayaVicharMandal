@@ -296,8 +296,11 @@ header .nav-items {
       .charity-01-main .bg-02-b .head-001 {
         margin: 10px 0px; } }
     .charity-01-main .bg-02-b .head-001 h2 {
-      padding: 5px 0 20px 0; }
+      padding: 50px 0 20px 0; }
+      .charity-01-main .bg-02-b .head-001 h3 {
+        padding: 80px 0 20px 0; }
     .charity-01-main .bg-02-b .head-001 p {
+    
       font-size: 16px;
       letter-spacing: 0.2px;
       margin: 0px; }
@@ -434,6 +437,7 @@ header .nav-items {
   position: relative;
   overflow: hidden; }
   .charity-01-main .services-01 .ser-box {
+    display: table-cell;
     margin: 20px 0px;
     padding: 15px 18px 20px 15px;
     background: #fcf7f9;
@@ -850,5 +854,8 @@ footer {
             width: 100%;
             height: auto;
           }
+          
+         
+          
           
 /*# sourceMappingURL=style.css.map */
